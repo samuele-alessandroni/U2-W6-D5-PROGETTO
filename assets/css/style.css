@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #141414;
+}
+
+.bg-dark-cst{
+    background-color: var(--primary-color);
+}
+
+.fs-xs{
+    font-size: x-small;
+}
+
+.ml-al{
+    margin-left: 12px;
+}
+
+
+
+/*NAVBAR*/
+
+nav{
+    
+}
+
+.nav-link{
+    color: rgb(255, 0, 0);
+}
+
+/*MAIN*/
+
+main{
+    width: 100%;
+   
+}
+
+main > div{
+    
+    margin: auto;
+    max-width: 95%;
+}
+
+footer{
+    margin-top: 10rem;
+}
